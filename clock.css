@@ -1,0 +1,24 @@
+body{
+    background-color:bisque;
+    align-items:center;
+
+}
+.clock-body{
+display:flex;
+padding-left: 5ch;
+align-items:center;
+height:200px;
+color:black;
+justify-content:center;
+display: flex;
+font-weight: bold;
+font-size: 100px;
+width: 800px;
+background-color:bisque ;
+
+}
+img{
+    width:175vh;
+    height:75vh;
+    padding-left: 8ch;
+}
